@@ -25,4 +25,5 @@ Well first; Because I work at TnyLnk. And Second; It actually respects privacy.
 URL Shortener. Do I really need to tell you this?
 
 **How can I report a bug that I found?**
+
 https://discord.gg/pTmX8Nu99Y
