@@ -1,0 +1,7 @@
+{
+    "name": "TnyLnk Shortener",
+    "version": "1.0.0",
+    "description": "Uses the TnyLnk API to shorten URLs.",
+    "author": "Neppkun#0030",
+    "license": "MIT"
+}
