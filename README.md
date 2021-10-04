@@ -1,3 +1,7 @@
+## PLUGIN WILL NO LONGER WORK BECAUSE TNYLNK V3 WAS RELEASED AND I'M TOO LAZY TO EDIT IT THANKS FOR YOUR UNDERSTANDING
+
+
+
 ## Installation
 **For Windows users [ Use CMD or Windows Terminal, Git Bash or Powershell won't work. ]**
 ```
