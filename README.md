@@ -27,3 +27,7 @@ URL Shortener. Do I really need to tell you this?
 **How can I report a bug that I found?**
 
 https://discord.gg/pTmX8Nu99Y
+
+## Reviews
+
+![PreviewImage](https://staff.tnylnk.org/img/19023604102021.png)
